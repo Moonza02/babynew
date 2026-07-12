@@ -1,0 +1,40 @@
+[
+  {
+    "id": "w1x11538",
+    "number": 1,
+    "date": "2026-07-10T19:25:38.286066",
+    "name": "Rustam",
+    "phone": "+998977392017",
+    "pay_type": "Naqd",
+    "packaging": "",
+    "packaging_price": 0,
+    "qadoq_cost": 0,
+    "delivery": 30000,
+    "delivery_km": 0.9,
+    "total": 115000,
+    "promo_code": "TR130601",
+    "promo_discount": 85000,
+    "cashback_used": 0,
+    "subtotal": 170000,
+    "district": "",
+    "lat": 41.36384943801327,
+    "lng": 69.20284867286684,
+    "maps": "https://maps.google.com/?q=41.36384943801327,69.20284867286684",
+    "items": [
+      {
+        "product_id": "b895bb6e-ec5d-40b0-bd2b-d9fa33e129d1",
+        "name": "Carter's uchtalik",
+        "size": "2 yosh",
+        "price": 170000,
+        "cost": 85000,
+        "qty": 1,
+        "subtotal": 170000
+      }
+    ],
+    "source": "sayt",
+    "tg_chat_id": 0,
+    "status": "new",
+    "stock_model": "on_payment",
+    "stock_taken": true
+  }
+]

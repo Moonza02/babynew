@@ -1,0 +1,475 @@
+[
+  {
+    "id": "0a1eeb55-af9c-49de-8ba9-3448d36c0dcc",
+    "name_uz": "Cute Mamas & Papas uchtalik",
+    "name_ru": "Cute Mamas & Papas тройка",
+    "price": 320000,
+    "cost": 160000,
+    "desc_uz": "Yumshoq va nafas oladigan paxtali matodan tayyorlangan premium slip. Kichkintoyingizning nozik terisi uchun qulay va xavfsiz tanlov.",
+    "desc_ru": "Мягкий слип из дышащего хлопка премиального качества. Комфортный и безопасный выбор для нежной кожи вашего малыша.",
+    "photo_id": "AgACAgIAAxkBAAISO2pRJ8iFUOXXn0Dlll1z6djwiVvcAAK4HGsbZQSISmB_2zxOgsbsAQADAgADeQADPAQ",
+    "photos": [
+      "AgACAgIAAxkBAAISO2pRJ8iFUOXXn0Dlll1z6djwiVvcAAK4HGsbZQSISmB_2zxOgsbsAQADAgADeQADPAQ",
+      "AgACAgIAAxkBAAISPmpRJ9JNIuobOX1z_4N97TlmP36iAAK5HGsbZQSISqsv65eh8JphAQADAgADeQADPAQ"
+    ],
+    "stock": 4,
+    "sizes": [
+      {
+        "label": "3 oy",
+        "stock": 1
+      },
+      {
+        "label": "6 oy",
+        "stock": 1
+      },
+      {
+        "label": "9 oy",
+        "stock": 1
+      },
+      {
+        "label": "12 oy",
+        "stock": 1
+      }
+    ],
+    "category": "Slip",
+    "gender": "girl",
+    "age": [
+      "0–1 yosh"
+    ],
+    "added_at": "2026-07-10"
+  },
+  {
+    "id": "3ba524bd-978b-4e65-9677-3cec34cc0369",
+    "name_uz": "Cute Mamas & Papas uchtalik",
+    "name_ru": "Cute Mamas & Papas тройка",
+    "price": 320000,
+    "cost": 160000,
+    "desc_uz": "Yumshoq va nafas oladigan paxtali matodan tayyorlangan premium slip. Kichkintoyingizning nozik terisi uchun qulay va xavfsiz tanlov.",
+    "desc_ru": "Мягкий слип из дышащего хлопка премиального качества. Комфортный и безопасный выбор для нежной кожи вашего малыша.",
+    "photo_id": "AgACAgIAAxkBAAISVWpRKExViarnfirqUtANjUw4EfVPAAK7HGsbZQSIShfXE3ACQsRyAQADAgADeQADPAQ",
+    "photos": [
+      "AgACAgIAAxkBAAISVWpRKExViarnfirqUtANjUw4EfVPAAK7HGsbZQSIShfXE3ACQsRyAQADAgADeQADPAQ",
+      "AgACAgIAAxkBAAISV2pRKF5-tEJpZ36lArsRstg7cevzAAK8HGsbZQSISptGe9t38l7cAQADAgADeQADPAQ"
+    ],
+    "stock": 4,
+    "sizes": [
+      {
+        "label": "3 oy",
+        "stock": 1
+      },
+      {
+        "label": "6 oy",
+        "stock": 1
+      },
+      {
+        "label": "9 oy",
+        "stock": 1
+      },
+      {
+        "label": "12 oy",
+        "stock": 1
+      }
+    ],
+    "category": "Slip",
+    "gender": "boy",
+    "age": [
+      "0–1 yosh"
+    ],
+    "added_at": "2026-07-10"
+  },
+  {
+    "id": "1c4a8c67-982d-474b-8275-761792e41825",
+    "name_uz": "Cute Koala oq ikkitalik",
+    "name_ru": "Cute Koala белвя двойка",
+    "price": 140000,
+    "cost": 70000,
+    "desc_uz": "Kichkintoyingiz uchun nafis va qulay kiyimlar. Yumshoq, nafas oladigan premium matodan tayyorlangan bo‘lib, nozik teri uchun xavfsiz va kun davomida maksimal qulaylikni ta’minlaydi.",
+    "desc_ru": "Нежный и удобный комплект для вашего малыша. Выполнен из мягкой, дышащей ткани премиального качества, безопасной для чувствительной детской кожи и обеспечивающей комфорт в течение всего дня.",
+    "photo_id": "AgACAgIAAxkBAAISbmpRKR4jgZ-wcr8FJoieJA9tSwPcAAK-HGsbZQSISvfgX_r7PksIAQADAgADeQADPAQ",
+    "photos": [
+      "AgACAgIAAxkBAAISbmpRKR4jgZ-wcr8FJoieJA9tSwPcAAK-HGsbZQSISvfgX_r7PksIAQADAgADeQADPAQ"
+    ],
+    "stock": 5,
+    "sizes": [
+      {
+        "label": "6 oy",
+        "stock": 1
+      },
+      {
+        "label": "9 oy",
+        "stock": 1
+      },
+      {
+        "label": "12 oy",
+        "stock": 1
+      },
+      {
+        "label": "18 oy",
+        "stock": 1
+      },
+      {
+        "label": "2 yosh",
+        "stock": 1
+      }
+    ],
+    "category": "Ikkitalik",
+    "gender": "boy",
+    "age": [
+      "0–1 yosh",
+      "1–2 yosh"
+    ],
+    "added_at": "2026-07-10"
+  },
+  {
+    "id": "4de08dfb-77ef-4d2b-a599-c574c0cf8a79",
+    "name_uz": "Carter's uchtalik",
+    "name_ru": "Carter's тройка",
+    "price": 170000,
+    "cost": 85000,
+    "desc_uz": "Nafis dizayn va yumshoq mato uyg‘unligi. Kichkina malikangiz uchun qulay va chiroyli tanlov.",
+    "desc_ru": "Нежный дизайн и мягкая ткань в идеальном сочетании. Комфортный и стильный выбор для вашей маленькой принцессы.",
+    "photo_id": "AgACAgIAAxkBAAIShWpRKcpNA6zAy-oAASB9vfOG4viV7gACxBxrG2UEiEoxtrNZ7xvy1AEAAwIAA3kAAzwE",
+    "photos": [
+      "AgACAgIAAxkBAAIShWpRKcpNA6zAy-oAASB9vfOG4viV7gACxBxrG2UEiEoxtrNZ7xvy1AEAAwIAA3kAAzwE"
+    ],
+    "stock": 5,
+    "sizes": [
+      {
+        "label": "6 oy",
+        "stock": 1
+      },
+      {
+        "label": "9 oy",
+        "stock": 1
+      },
+      {
+        "label": "12 oy",
+        "stock": 1
+      },
+      {
+        "label": "18 oy",
+        "stock": 1
+      },
+      {
+        "label": "2 yosh",
+        "stock": 1
+      }
+    ],
+    "category": "Uchtalik",
+    "gender": "girl",
+    "age": [
+      "0–1 yosh",
+      "1–2 yosh"
+    ],
+    "added_at": "2026-07-10"
+  },
+  {
+    "id": "b895bb6e-ec5d-40b0-bd2b-d9fa33e129d1",
+    "name_uz": "Carter's uchtalik",
+    "name_ru": "Carter's тройка",
+    "price": 170000,
+    "cost": 85000,
+    "desc_uz": "Nafis dizayn va yumshoq mato uyg‘unligi. Kichkina malikangiz uchun qulay va chiroyli tanlov.",
+    "desc_ru": "Нежный дизайн и мягкая ткань в идеальном сочетании. Комфортный и стильный выбор для вашей маленькой принцессы.",
+    "photo_id": "AgACAgIAAxkBAAISo2pRKoP0vQyJBWvYxmxon13GuTN0AALHHGsbZQSISn_bOey2317-AQADAgADeQADPAQ",
+    "photos": [
+      "AgACAgIAAxkBAAISo2pRKoP0vQyJBWvYxmxon13GuTN0AALHHGsbZQSISn_bOey2317-AQADAgADeQADPAQ"
+    ],
+    "stock": 4,
+    "sizes": [
+      {
+        "label": "6 oy",
+        "stock": 1
+      },
+      {
+        "label": "9 oy",
+        "stock": 1
+      },
+      {
+        "label": "12 oy",
+        "stock": 1
+      },
+      {
+        "label": "18 oy",
+        "stock": 1
+      },
+      {
+        "label": "2 yosh",
+        "stock": 0
+      }
+    ],
+    "category": "Uchtalik",
+    "gender": "boy",
+    "age": [
+      "0–1 yosh",
+      "1–2 yosh"
+    ],
+    "added_at": "2026-07-10"
+  },
+  {
+    "id": "52cf6ce9-a435-400f-933e-e861a98c06bb",
+    "name_uz": "Cute Koala xaki rang",
+    "name_ru": "Cute Koala цвет хаки",
+    "price": 140000,
+    "cost": 70000,
+    "desc_uz": "Yengil, yumshoq va nafas oladigan matodan tayyorlangan ushbu to'plam kichkintoyingizga kun davomida qulaylik va erkin harakatni taqdim etadi.",
+    "desc_ru": "Лёгкий комплект из мягкой и дышащей ткани, который обеспечивает комфорт и свободу движений вашему малышу в течение всего дня.",
+    "photo_id": "AgACAgIAAxkBAAIStmpRLUGW-HyQzrWn80FT0YIlT3OtAALYHGsbZQSISu-duBEvH5WIAQADAgADeQADPAQ",
+    "photos": [
+      "AgACAgIAAxkBAAIStmpRLUGW-HyQzrWn80FT0YIlT3OtAALYHGsbZQSISu-duBEvH5WIAQADAgADeQADPAQ"
+    ],
+    "stock": 5,
+    "sizes": [
+      {
+        "label": "6 oy",
+        "stock": 1
+      },
+      {
+        "label": "9 oy",
+        "stock": 1
+      },
+      {
+        "label": "12 oy",
+        "stock": 1
+      },
+      {
+        "label": "18 oy",
+        "stock": 1
+      },
+      {
+        "label": "2 yosh",
+        "stock": 1
+      }
+    ],
+    "category": "Ikkitalik",
+    "gender": "boy",
+    "age": [
+      "0–1 yosh",
+      "1–2 yosh"
+    ],
+    "added_at": "2026-07-10"
+  },
+  {
+    "id": "0613539c-4020-421f-8dfb-f8577c67ac49",
+    "name_uz": "POLO ko'ylak",
+    "name_ru": "POLO платье",
+    "price": 220000,
+    "cost": 110000,
+    "desc_uz": "Yengil, yumshoq va qulay ko'ylak. Kichkintoyingiz uchun har kuni nafis uslub va erkin harakat.",
+    "desc_ru": "Лёгкое, мягкое и удобное платье для комфортных прогулок и стильного образа каждый день.",
+    "photo_id": "AgACAgIAAxkBAAIS_2pRNGwN8r5gaSbGe9eDdHeRNA9cAALwHGsbZQSISoY0MLCQmKibAQADAgADeQADPAQ",
+    "photos": [
+      "AgACAgIAAxkBAAIS_2pRNGwN8r5gaSbGe9eDdHeRNA9cAALwHGsbZQSISoY0MLCQmKibAQADAgADeQADPAQ"
+    ],
+    "stock": 6,
+    "sizes": [
+      {
+        "label": "6 oy",
+        "stock": 1
+      },
+      {
+        "label": "9 oy",
+        "stock": 1
+      },
+      {
+        "label": "12 oy",
+        "stock": 1
+      },
+      {
+        "label": "18 oy",
+        "stock": 1
+      },
+      {
+        "label": "2 yosh",
+        "stock": 1
+      },
+      {
+        "label": "3 yosh",
+        "stock": 1
+      }
+    ],
+    "category": "Ko'ylaklar",
+    "gender": "girl",
+    "age": [
+      "0–1 yosh",
+      "1–2 yosh",
+      "2–3 yosh"
+    ],
+    "added_at": "2026-07-10"
+  },
+  {
+    "id": "a36b5b05-70f0-4a84-a31f-9c3d7fd01b06",
+    "name_uz": "Mimi threads ikkitalik",
+    "name_ru": "Mimi threads двойка",
+    "price": 199000,
+    "cost": 98000,
+    "desc_uz": "Yumshoq va nafas oladigan matodan tayyorlangan zamonaviy to'plam. Har kuni qulaylik va erkin harakat uchun yaratilgan.",
+    "desc_ru": "Стильный комплект из мягкой и дышащей ткани. Создан для комфорта и свободы движений малыша каждый день.",
+    "photo_id": "AgACAgIAAxkBAAIS8mpRM8j-NECen4Yk9snNGmzxhZ7uAALtHGsbZQSISgbvYxaHx-XNAQADAgADeQADPAQ",
+    "photos": [
+      "AgACAgIAAxkBAAIS8mpRM8j-NECen4Yk9snNGmzxhZ7uAALtHGsbZQSISgbvYxaHx-XNAQADAgADeQADPAQ"
+    ],
+    "stock": 3,
+    "sizes": [
+      {
+        "label": "12 oy",
+        "stock": 1
+      },
+      {
+        "label": "18 oy",
+        "stock": 1
+      },
+      {
+        "label": "2 yosh",
+        "stock": 1
+      }
+    ],
+    "category": "Ikkitalik",
+    "gender": "boy",
+    "age": [
+      "0–1 yosh",
+      "1–2 yosh"
+    ],
+    "added_at": "2026-07-10"
+  },
+  {
+    "id": "180047b9-cda2-4db3-892b-2c6612cc0ec9",
+    "name_uz": "Uyqu kiymi elephant",
+    "name_ru": "Пижама elephant",
+    "price": 199000,
+    "cost": 99000,
+    "desc_uz": "Yumshoq, nafas oladigan premium matodan tayyorlangan uyqu kiyimlari. Kichkintoyingiz uchun qulay, yengil va nozik teri uchun xavfsiz tanlov.",
+    "desc_ru": "Пижамы из мягкой и дышащей премиальной ткани. Лёгкий, комфортный и безопасный выбор для нежной кожи малыша.",
+    "photo_id": "AgACAgIAAxkBAAITD2pRNeio6XfAS2goHHfxGE_f3MM8AAL8HGsbZQSISjuKblVSAhHgAQADAgADeQADPAQ",
+    "photos": [
+      "AgACAgIAAxkBAAITD2pRNeio6XfAS2goHHfxGE_f3MM8AAL8HGsbZQSISjuKblVSAhHgAQADAgADeQADPAQ"
+    ],
+    "stock": 6,
+    "sizes": [
+      {
+        "label": "90 sm",
+        "stock": 1
+      },
+      {
+        "label": "100 sm",
+        "stock": 1
+      },
+      {
+        "label": "110 sm",
+        "stock": 1
+      },
+      {
+        "label": "120 sm",
+        "stock": 1
+      },
+      {
+        "label": "130 sm",
+        "stock": 1
+      },
+      {
+        "label": "140 sm",
+        "stock": 1
+      }
+    ],
+    "category": "Uyqu kiymi",
+    "gender": "boy",
+    "age": [
+      "2–3 yosh",
+      "3–5 yosh",
+      "5–7 yosh"
+    ],
+    "added_at": "2026-07-10"
+  },
+  {
+    "id": "931cee30-f5ec-4c6d-8d33-2a9171c91547",
+    "name_uz": "Bolalar uyqu kiymi",
+    "name_ru": "Детская пижама",
+    "price": 199000,
+    "cost": 99000,
+    "desc_uz": "Yumshoq, nafas oladigan premium matodan tayyorlangan uyqu kiyimlari. Kichkintoyingiz uchun qulay, yengil va nozik teri uchun xavfsiz tanlov.",
+    "desc_ru": "Пижамы из мягкой и дышащей премиальной ткани. Лёгкий, комфортный и безопасный выбор для нежной кожи малыша.",
+    "photo_id": "AgACAgIAAxkBAAITJmpRNpohEexLHlIc6TeEH-82FJG6AAKbGmsbt_eISgj5F7vHEXJWAQADAgADeQADPAQ",
+    "photos": [
+      "AgACAgIAAxkBAAITJmpRNpohEexLHlIc6TeEH-82FJG6AAKbGmsbt_eISgj5F7vHEXJWAQADAgADeQADPAQ"
+    ],
+    "stock": 5,
+    "sizes": [
+      {
+        "label": "90 sm",
+        "stock": 1
+      },
+      {
+        "label": "100 sm",
+        "stock": 1
+      },
+      {
+        "label": "110 sm",
+        "stock": 1
+      },
+      {
+        "label": "120 sm",
+        "stock": 1
+      },
+      {
+        "label": "130 sm",
+        "stock": 1
+      }
+    ],
+    "category": "Uyqu kiymi",
+    "gender": "boy",
+    "age": [
+      "2–3 yosh",
+      "3–5 yosh",
+      "5–7 yosh"
+    ],
+    "added_at": "2026-07-10"
+  },
+  {
+    "id": "12b0d5c7-79da-4a64-9fb9-fd6c84cfa0ac",
+    "name_uz": "Qizlar uyqu kiymi",
+    "name_ru": "Пижама для девочек",
+    "price": 199000,
+    "cost": 99000,
+    "desc_uz": "Yumshoq, nafas oladigan premium matodan tayyorlangan uyqu kiyimlari. Kichkintoyingiz uchun qulay, yengil va nozik teri uchun xavfsiz tanlov.",
+    "desc_ru": "Пижамы из мягкой и дышащей премиальной ткани. Лёгкий, комфортный и безопасный выбор для нежной кожи малыша.",
+    "photo_id": "AgACAgIAAxkBAAITPWpRNxQWSXratlQ9hYTDcvdauWQSAAKcGmsbt_eISowVYhdK8R7yAQADAgADeQADPAQ",
+    "photos": [
+      "AgACAgIAAxkBAAITPWpRNxQWSXratlQ9hYTDcvdauWQSAAKcGmsbt_eISowVYhdK8R7yAQADAgADeQADPAQ"
+    ],
+    "stock": 6,
+    "sizes": [
+      {
+        "label": "90 sm",
+        "stock": 1
+      },
+      {
+        "label": "100 sm",
+        "stock": 1
+      },
+      {
+        "label": "110 sm",
+        "stock": 1
+      },
+      {
+        "label": "120 sm",
+        "stock": 1
+      },
+      {
+        "label": "130 sm",
+        "stock": 1
+      },
+      {
+        "label": "140 sm",
+        "stock": 1
+      }
+    ],
+    "category": "Uyqu kiymi",
+    "gender": "girl",
+    "age": [
+      "2–3 yosh",
+      "3–5 yosh",
+      "5–7 yosh"
+    ],
+    "added_at": "2026-07-10"
+  }
+]
