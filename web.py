@@ -131,9 +131,14 @@ def _gh_restore(path, local_path):
 _prod_pull_lock = threading.Lock()
 _prod_pull_ts = 0.0
 PROD_PULL_TTL = 20  # sekund
+SITE_PREVIEW_MODE = os.getenv("SITE_PREVIEW_MODE", "false").strip().lower() in ("1", "true", "yes", "on")
 
 def refresh_products_from_gh(force=False):
     global _prod_pull_ts
+    # Alohida sayt preview rejimida lokal test katalogini GitHub dagi
+    # bo'sh/eski products.json bilan almashtirmaymiz.
+    if SITE_PREVIEW_MODE:
+        return
     if not _GH_TOKEN:
         return
     now = time.time()
@@ -612,6 +617,32 @@ def get_user_by_phone(phone):
         return dict(row) if row else None
     except Exception:
         return None
+
+
+def ensure_test_user():
+    """Preview/test deploy uchun login yaratadi. Productionda TEST_LOGIN_ENABLED=false qiling."""
+    enabled = os.getenv("TEST_LOGIN_ENABLED", "false").strip().lower() == "true"
+    if not enabled:
+        return
+    name = os.getenv("TEST_LOGIN_NAME", "BabyDiary Test").strip()[:80] or "BabyDiary Test"
+    phone = normalize_phone(os.getenv("TEST_LOGIN_PHONE", "998901234567"))
+    password = os.getenv("TEST_LOGIN_PASSWORD", "BabyDiary123")
+    if len(phone) != 12 or len(password) < 8:
+        print("TEST LOGIN: telefon yoki parol noto'g'ri sozlangan", flush=True)
+        return
+    try:
+        con = sqlite3.connect(DB_FILE)
+        row = con.execute("SELECT id FROM web_users WHERE phone=?", (phone,)).fetchone()
+        if row:
+            con.execute("UPDATE web_users SET name=?, pass_hash=? WHERE phone=?",
+                        (name, hash_pw(password), phone))
+        else:
+            con.execute("INSERT INTO web_users (name, phone, pass_hash, created_at) VALUES (?,?,?,?)",
+                        (name, phone, hash_pw(password), datetime.datetime.now().isoformat()))
+        con.commit(); con.close()
+        print("TEST LOGIN tayyor: +%s" % phone, flush=True)
+    except Exception as e:
+        print("TEST LOGIN yaratishda xato:", e, flush=True)
 
 # ── Yetkazib berish (bot.py bilan AYNAN bir xil formula) ──
 def get_shop_location():
@@ -2086,6 +2117,7 @@ def api_my_orders():
 # Auth jadvallari import vaqtida ham tayyorlanadi (gunicorn uchun).
 os.makedirs(DATA_DIR, exist_ok=True)
 ensure_web_tables()
+ensure_test_user()
 
 if __name__ == "__main__":
     port = int(os.getenv("PORT", "8080"))
