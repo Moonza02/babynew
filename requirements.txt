@@ -4,3 +4,4 @@ python-telegram-bot[job-queue]==21.6
 reportlab==4.2.5
 flask
 openpyxl
+gunicorn
