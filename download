@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+*.log
+*.tmp
+*.bak
+/data/
+data/*.db
+data/*.db-*
+data/orders.json
+data/pending_reviews.json
